@@ -132,8 +132,7 @@
         android:layout_marginTop="8dp"
         android:text="Kisah Naufal jalani transplantasi ginjal. "
         android:textColor="#FFFF"
-        android:textSize="8pt"
-        android:textStyle="bold"
+        android:textSize="7pt"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.979"
@@ -151,8 +150,7 @@
         android:layout_marginTop="8dp"
         android:text="Jangan terjebak! yuk ungkap mitos fakta penyakit ginjal."
         android:textColor="#FFFF"
-        android:textSize="8pt"
-        android:textStyle="bold"
+        android:textSize="7pt"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
@@ -170,14 +168,37 @@
         android:layout_marginTop="8dp"
         android:text="Pasien gagal ginjal berpuasa, amankah?"
         android:textColor="#FFFF"
-        android:textSize="8pt"
-        android:textStyle="bold"
+        android:textSize="7pt"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.923"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.125" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="more"
+        tools:layout_editor_absoluteX="280dp"
+        tools:layout_editor_absoluteY="447dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="more"
+        tools:layout_editor_absoluteX="280dp"
+        tools:layout_editor_absoluteY="218dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="more"
+        tools:layout_editor_absoluteX="279dp"
+        tools:layout_editor_absoluteY="96dp" />
 
 
 </android.support.constraint.ConstraintLayout>
