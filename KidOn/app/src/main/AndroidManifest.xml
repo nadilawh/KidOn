@@ -20,9 +20,14 @@
         </activity>
         <activity android:name=".CuciDarah" />
         <activity android:name=".NewsTips" />
+<<<<<<< HEAD
         <activity android:name=".ProfilDokter" />
         <activity android:name=".AsupanCairan" />
         <activity android:name=".PasienDokter"></activity>
+=======
+        <activity android:name=".detail_news" />
+        <activity android:name=".pasien"></activity>
+>>>>>>> 552a218c58cd67562577e3ed7ccf75f66c92c6f7
     </application>
 
 </manifest>
